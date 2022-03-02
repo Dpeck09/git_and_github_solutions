@@ -1,0 +1,8 @@
+1) Paste a link to your github repository below:
+
+https://github.com/Dpeck09/git_and_github_solutions.git
+
+2) What questions do you have about what we've learned so far using git and github?:
+
+I am a little bit lost on the idea of GitHub. I know how to store things and use it for the most part,
+but I am very confused as to when to use it and where to use it exactly.
